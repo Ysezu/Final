@@ -1,0 +1,48 @@
+C:\Users\Mikaello\Desktop\Курсач прогич\Kura\Kura\obj\Debug\Kura.csprojAssemblyReference.cache
+C:\Users\Mikaello\Desktop\Курсач прогич\Kura\Kura\obj\Debug\Kura.Properties.Resources.resources
+C:\Users\Mikaello\Desktop\Курсач прогич\Kura\Kura\obj\Debug\Kura.csproj.GenerateResource.cache
+C:\Users\Mikaello\Desktop\Курсач прогич\Kura\Kura\obj\Debug\Kura.csproj.CoreCompileInputs.cache
+C:\Users\Mikaello\Desktop\Курсач прогич\Kura\Kura\bin\Debug\Kura.exe.config
+C:\Users\Mikaello\Desktop\Курсач прогич\Kura\Kura\bin\Debug\Kura.exe
+C:\Users\Mikaello\Desktop\Курсач прогич\Kura\Kura\bin\Debug\Kura.pdb
+C:\Users\Mikaello\Desktop\Курсач прогич\Kura\Kura\obj\Debug\Kura.exe
+C:\Users\Mikaello\Desktop\Курсач прогич\Kura\Kura\obj\Debug\Kura.pdb
+C:\Users\Mikaello\Desktop\Курсач прогич\Kura\Kura\obj\Debug\Kura.MainMenu.resources
+C:\Users\Mikaello\Desktop\Курсач прогич\Kura\Kura\obj\Debug\Kura.Game1.resources
+C:\Users\Mikaello\Desktop\Курсач прогич\Kura\Kura\obj\Debug\Kura.Game2.resources
+C:\Users\Viktor\Desktop\Proj\KuraV2\Kura\bin\Debug\Kura.exe.config
+C:\Users\Viktor\Desktop\Proj\KuraV2\Kura\bin\Debug\Kura.exe
+C:\Users\Viktor\Desktop\Proj\KuraV2\Kura\bin\Debug\Kura.pdb
+C:\Users\Viktor\Desktop\Proj\KuraV2\Kura\obj\Debug\Kura.csprojAssemblyReference.cache
+C:\Users\Viktor\Desktop\Proj\KuraV2\Kura\obj\Debug\Kura.MainMenu.resources
+C:\Users\Viktor\Desktop\Proj\KuraV2\Kura\obj\Debug\Kura.Game1.resources
+C:\Users\Viktor\Desktop\Proj\KuraV2\Kura\obj\Debug\Kura.Game2.resources
+C:\Users\Viktor\Desktop\Proj\KuraV2\Kura\obj\Debug\Kura.Properties.Resources.resources
+C:\Users\Viktor\Desktop\Proj\KuraV2\Kura\obj\Debug\Kura.csproj.GenerateResource.cache
+C:\Users\Viktor\Desktop\Proj\KuraV2\Kura\obj\Debug\Kura.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Proj\KuraV2\Kura\obj\Debug\Kura.exe
+C:\Users\Viktor\Desktop\Proj\KuraV2\Kura\obj\Debug\Kura.pdb
+C:\Users\Mikaello\Desktop\Курсач прогич\KuraV2\Kura\bin\Debug\Kura.exe.config
+C:\Users\Mikaello\Desktop\Курсач прогич\KuraV2\Kura\bin\Debug\Kura.exe
+C:\Users\Mikaello\Desktop\Курсач прогич\KuraV2\Kura\bin\Debug\Kura.pdb
+C:\Users\Mikaello\Desktop\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.csprojAssemblyReference.cache
+C:\Users\Mikaello\Desktop\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.MainMenu.resources
+C:\Users\Mikaello\Desktop\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.Game1.resources
+C:\Users\Mikaello\Desktop\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.Game2.resources
+C:\Users\Mikaello\Desktop\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.Properties.Resources.resources
+C:\Users\Mikaello\Desktop\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.csproj.GenerateResource.cache
+C:\Users\Mikaello\Desktop\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.csproj.CoreCompileInputs.cache
+C:\Users\Mikaello\Desktop\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.exe
+C:\Users\Mikaello\Desktop\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.pdb
+C:\Users\Mikaello\Desktop\учеба уёба\Курсач прогич\KuraV2\Kura\bin\Debug\Kura.exe.config
+C:\Users\Mikaello\Desktop\учеба уёба\Курсач прогич\KuraV2\Kura\bin\Debug\Kura.exe
+C:\Users\Mikaello\Desktop\учеба уёба\Курсач прогич\KuraV2\Kura\bin\Debug\Kura.pdb
+C:\Users\Mikaello\Desktop\учеба уёба\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.csprojAssemblyReference.cache
+C:\Users\Mikaello\Desktop\учеба уёба\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.MainMenu.resources
+C:\Users\Mikaello\Desktop\учеба уёба\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.Game1.resources
+C:\Users\Mikaello\Desktop\учеба уёба\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.Game2.resources
+C:\Users\Mikaello\Desktop\учеба уёба\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.Properties.Resources.resources
+C:\Users\Mikaello\Desktop\учеба уёба\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.csproj.GenerateResource.cache
+C:\Users\Mikaello\Desktop\учеба уёба\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.csproj.CoreCompileInputs.cache
+C:\Users\Mikaello\Desktop\учеба уёба\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.exe
+C:\Users\Mikaello\Desktop\учеба уёба\Курсач прогич\KuraV2\Kura\obj\Debug\Kura.pdb
